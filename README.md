@@ -5,6 +5,12 @@ It provides an interactive **Streamlit web app** where users can select a stock,
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Youtube Video Here:** [Stock Price Predictor(GOOG,AAPLE,TSLA)](https://youtu.be/UxsqRMjHkoY)
+
+---
+
 ## 🧠 Project Overview
 
 Stock markets are highly volatile and influenced by multiple factors like economy, company performance, and global events.  
